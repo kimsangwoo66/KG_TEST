@@ -1,4 +1,8 @@
-# cytoscape.js 사용 지식 그래프 샘플
+# Cytoscape.js Example
+
+## For develop knowledge graph
+
+- Sample code for adopting the library to implement the knowledge graph
 
 ## Setup
 
@@ -52,20 +56,4 @@ yarn build
 
 # bun
 bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
 ```
